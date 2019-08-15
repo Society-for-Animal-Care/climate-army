@@ -4,7 +4,7 @@ $field_email = $_POST['cf_email'];
 $field_country = $_POST['cf_country'];
 $field_city = $_POST['cf_city'];
 
-$mail_to = 'societyforanimalcare@gmail.com, climatearmyactivists@gmail.com';
+$mail_to = 'societyforanimalcare@gmail.com';
 $subject = ' '.$field_name;
 
 $body_message = 'From: '.$field_name."\n";
